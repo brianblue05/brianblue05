@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**brianblue05/brianblue05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hi, I am Brian Mawira
-👀 I’m interested in full stack web development
-🌱 I’m currently learning Django development
-💞️ I’m looking to collaborate on anything that enhances my learning
-📫 How to reach me brianmawira005@gmail.com
+👋 I am Brian Mawira<br/>
+:technologist: I’m interested in full stack web development</br>
+:notebook: I’m currently learning Django development</br>
+:money_with_wings: I’m looking to collaborate on anything that enhances my learning<br/>
+:email: How to reach me brianmawira005@gmail.com<br/>

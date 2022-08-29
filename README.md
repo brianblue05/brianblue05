@@ -4,4 +4,4 @@
 :technologist: I’m a Cyber Security enthusiast and python developer</br>
 :notebook: Currently learning Django development</br>
 :money_with_wings: I’m looking to collaborate on anything that enhances my learning<br/>
-:email: How to reach me brianmawira005@gmail.com<br/>
+:email: Reach me at brianmawira005@gmail.com<br/>
